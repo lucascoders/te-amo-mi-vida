@@ -16,7 +16,7 @@ body{
     /* 2. CONFIGURACIÓN VISUAL PARA PANTALLA COMPLETA */
     
     /* Escala la imagen para cubrir todo el fondo sin cortarse. */
-    background-size: 1400px; 
+    background-size: 720px; 
     
     /* Evita que la imagen se repita (se "mosaquee"). */
     background-repeat: no-repeat; 
